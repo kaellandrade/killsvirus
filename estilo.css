@@ -10,20 +10,6 @@ body{
     background-repeat: no-repeat;
 }
 
-@font-face{
-    font-family: 'Virus';
-    src: url('fontes/Coronaviral.otf');
-}
-.titleGameOver{
-    text-align: center;
-    color: rgb(229, 233, 0);
-    font-family: 'Virus';
-}
-.titleVitoria{
-    text-align: center;
-    color: rgb(0, 233, 31);
-    
-}
 
 .vidas{
     float: left;
