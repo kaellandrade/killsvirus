@@ -2,28 +2,14 @@ html{
     cursor: url('imagens/esponja.png') 30 30, auto;
 }
 
-.bodyGame{
+body{
     background-size: cover;
     background-attachment: fixed;
     background-position: 50% 50%;
     background-image: url('imagens/bg.png');
     background-repeat: no-repeat;
 }
-.bodyGameOver{
-    
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: 50% 50%;
-    background-image: url('imagens/gameOver.png');
-    background-repeat: no-repeat;
-}
-.bodyVitoria{
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: 50% 50%;
-    background-image: url('imagens/vitoria.png');
-    background-repeat: no-repeat;
-}
+
 @font-face{
     font-family: 'Virus';
     src: url('fontes/Coronaviral.otf');
