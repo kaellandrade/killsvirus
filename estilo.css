@@ -10,6 +10,9 @@ body{
     background-repeat: no-repeat;
 }
 
+footer{
+    font-weight: bolder;
+}
 
 .vidas{
     float: left;
