@@ -1,6 +1,7 @@
 # Kills Virus
+![kills virus page](https://github.com/kaellandrade/virus.github.io/blob/master/home.png)
+Página criada afim de colocar em prática conceitos básicos da programação WEB com JavaScript.
 
-![Página criada afim de colocar em prática conceitos básicos da programação WEB com JavaScript.](https://github.com/kaellandrade/virus.github.io/blob/master/home.png)
 
 ## Tecnologias Usadas 
 1. https://getbootstrap.com/ (Bootstrap)
