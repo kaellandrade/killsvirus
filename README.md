@@ -1,6 +1,6 @@
 # Kills Virus
 ![kills virus page](https://github.com/kaellandrade/virus.github.io/blob/master/home.png)
-Página criada afim de colocar em prática conceitos básicos da programação WEB com JavaScript.
+Página criada a fim de colocar em prática conceitos básicos da programação WEB com JavaScript.
 
 
 ## Tecnologias Usadas 
