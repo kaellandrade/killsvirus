@@ -4,10 +4,10 @@ Página criada afim de colocar em prática conceitos básicos da programação W
 
 
 ## Tecnologias Usadas 
-1. https://getbootstrap.com/ (Bootstrap)
-2.  https://fontawesome.com/ (FontWesome)
-3. https://inkscape.org/pt-br/ (Inkscape)
-4. https://code.visualstudio.com/ (VS Code)
+1.  [Bootstrap](https://getbootstrap.com/)
+2.  [FontWesome](https://fontawesome.com/)
+3.  [Inkscape](https://inkscape.org/pt-br/)
+4.  [VS Code](https://code.visualstudio.com/)
 
 ### Referências(Freepik):
 
